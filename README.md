@@ -1,12 +1,7 @@
-# Improved Basal Ganglia Segmentation of 3D Neonatal Brain MR Images
-
-## 개요
-
-이 저장소는 "Improved Basal Ganglia Segmentation of Three Dimensional Neonatal Brain MR Images for Perivascular Space Assessment" 논문의 코드를 포함하고 있습니다. 이 연구는 한국외국어대학교와 가톨릭대학교 서울성모병원에서 진행되었습니다.
 
 ## 목적
 
-T2 이미지를 사용하여 신생아의 MRI에서 MR로 보이는 뇌실주위 공간(PVS)을 자동으로 segmentation하는 정확도를 향상시키는 것을 목표로 합니다. T2와 SWI contrast를 동시에 사용하여 신생아 뇌의 분할 성능을 개선하고자 합니다.
+T2 이미지를 사용하여 신생아의 MRI에서 MR로 보이는 뇌실주위 공간(PVS)을 자동으로 segmentation하는 정확도를 향상
 
 ## 방법
 
